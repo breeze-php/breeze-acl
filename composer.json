@@ -1,0 +1,13 @@
+{
+    "name": "breeze-php/breeze-acl",
+    "description": "A simple access control layer",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Suh Du",
+            "email": "suhdu@protonmail.com"
+        }
+    ],
+    "require": {}
+}
