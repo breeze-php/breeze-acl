@@ -9,5 +9,7 @@
             "email": "suhdu@protonmail.com"
         }
     ],
-    "require": {}
+    "require": {
+        "zendframework/zend-permissions-acl": "^2.6"
+    }
 }
