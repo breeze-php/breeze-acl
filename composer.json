@@ -11,5 +11,10 @@
     ],
     "require": {
         "zendframework/zend-permissions-acl": "^2.6"
+    },
+    "autoload": {
+        "psr-4": {
+            "Breeze\\Acl\\": "src/"
+        }
     }
 }
